@@ -25,7 +25,7 @@ This is a simple Android app built with **Jetpack Compose** using **Material Des
 ---
 
 
----
+
 
 ## 🧑‍💻 Tech Stack
 
